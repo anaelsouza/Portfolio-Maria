@@ -1,4 +1,5 @@
 # Portfolio-Maria
-Projeto de Portfolio, esse é um projeto prático do 1 Mês, Semana 3 do Curso de Formação em Tecnologia da DNC, para a captação de dados do formulário foi utilizado a plataforma Formspree, nesse caso o acesso é privado, porém o link do site vai está disponível para a visualização.
+Projeto de Portfolio, esse é um projeto prático do 1 Mês, Semana 3 do Curso de Formação em Tecnologia da DNC!!
+Registro de informações Formspree, seguindo diretamenta para o e-mail de contato (cliente/fornecedor), Repositório Git e o Upload do site diretamente pela Netlify.
 
 link do Portfólio: https://portfoliomaria-dnc.netlify.app/
